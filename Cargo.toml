@@ -1,0 +1,11 @@
+[package]
+name = "idt"
+version = "0.1.0"
+authors = ["nathanfaucett <nathanfaucett@gmail.com>"]
+
+keywords = ["hardware", "idt", "interrupt", "descriptor", "table"]
+description = "hardware specific interrupt descriptor table"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/nathanfaucett/rs-idt.git"
+homepage = "https://github.com/nathanfaucett/rs-idt"
